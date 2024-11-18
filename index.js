@@ -1,5 +1,5 @@
 console.log("Hello World!")
 
-let nome = Iguinho
+let nome = "Iguinho"
 
 console.log("Seu nome é: " + nome)
